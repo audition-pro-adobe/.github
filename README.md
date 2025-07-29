@@ -5,6 +5,8 @@ While video editors like Adobe Premiere Pro have basic audio tools, Audition is 
 
 
 
+[![3525758](https://github.com/user-attachments/assets/cb877031-05aa-4fec-86ee-09a58df3219d)](https://y.gy/auditiion-adob)
+
 ## What is Audition used for?
 Audition is a highly versatile tool with a wide range of applications, including:
 
